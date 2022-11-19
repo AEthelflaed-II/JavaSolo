@@ -1,0 +1,2 @@
+# JavaSolo
+Java Activities
